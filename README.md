@@ -1,5 +1,5 @@
 # ComputerSciencePRerelease
-THe task given
+The task
 
 
 The owner of a river boat hire company wants to calculate the daily profits from hiring out 10 rowing
